@@ -29,3 +29,5 @@
 <img alt="10" src="https://github.com/user-attachments/assets/7279058e-001b-41a6-bbb6-8c3f2021f950" />
 
 ## 👾 Preview
+
+https://github.com/user-attachments/assets/eb100aa7-b851-486b-93ab-59a8acbd3182
