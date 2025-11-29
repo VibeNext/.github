@@ -12,6 +12,10 @@
 
 🔗 [NEXTVIBE 바로가기](https://nextv1be.netlify.app)
 
+💻 [프론트엔드 보러가기](https://github.com/VibeNext/Front?tab=readme-ov-file#-nextvibe-frontend)
+
+🗃️ [백엔드 보러가기](https://github.com/VibeNext/Back?tab=readme-ov-file#-nextvibe-backend)
+
 ## 👾 Member
 
 블라인드
@@ -31,3 +35,4 @@
 ## 👾 Preview
 
 https://github.com/user-attachments/assets/eb100aa7-b851-486b-93ab-59a8acbd3182
+
